@@ -3,7 +3,7 @@
   "version": "0.6.1",
   "description": "Vinyl adapter for FTP",
   "license": "MIT",
-  "repository": "morris/vinyl-ftp",
+  "repository": "sgmckay25/vinyl-ftp",
   "author": {
     "name": "Morris Brodersen",
     "email": "mb@morrisbrodersen.de",
